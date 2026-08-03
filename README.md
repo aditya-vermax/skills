@@ -1,8 +1,8 @@
 # AI Skills
 
-A private collection of AI skill packages used during vibe coding sessions.
+A private collection of my AI skill packages used during vibe coding sessions.
 
-These `.skill` files are packaged Codex/AI workflow helpers for design taste, frontend polish, human-centered output, sticker styling, and high-quality UI/UX execution.
+These `.skill` files are packaged AI workflow helpers.
 
 ## Included Skills
 
@@ -16,4 +16,4 @@ These `.skill` files are packaged Codex/AI workflow helpers for design taste, fr
 
 ## Usage
 
-Import or install the `.skill` files in the AI coding environment that supports them. Keep this repo private if the skills contain personal prompts, workflows, or proprietary session patterns.
+Import or install the `.skill` files in the AI coding environment that supports them.
