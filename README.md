@@ -13,6 +13,7 @@ These `.skill` files are packaged AI workflow helpers.
 - `impeccable.skill`
 - `sticker-neubrutalism-design.skill`
 - `ui-ux-pro-max.skill`
+- `llm-council-skill.md`
 
 ## Usage
 
