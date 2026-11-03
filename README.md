@@ -1,20 +1,5 @@
 # AI Skills
 
-A private collection of my AI skill packages used during vibe coding sessions.
+A collection of AI skills for vibe coding, including design, development, research, writing, and project workflows.
 
-These `.skill` files are packaged AI workflow helpers.
-
-## Included Skills
-
-- `awesome-design-md.skill`
-- `behuman.skill`
-- `design-taste-frontend.skill`
-- `frontend-design.skill`
-- `impeccable.skill`
-- `sticker-neubrutalism-design.skill`
-- `ui-ux-pro-max.skill`
-- `llm-council-skill.md`
-
-## Usage
-
-Import or install the `.skill` files in the AI coding environment that supports them.
+This repository includes packaged `.skill` files and folder-based skills with `SKILL.md` instructions. Import or install them in a compatible AI coding environment.
